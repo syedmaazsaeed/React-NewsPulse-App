@@ -1,14 +1,14 @@
 
 // state is used when you change it again and again and you want the variable changing on the screen
-// without reloading the page..
+// without reloading the page.
 // You cannot change the props If ever you need to set state by passing props you can set state
-// after that ypu can change the state you cannot change the props directly
+//After that you can change the state you cannot change the props directly
 // Props are read only that we have seen
 
-// we use Fetch APIS to bring data from server we can hit using Fetch api
-// and api key
+// we use Fetch APIS to bring data from the server we can hit using Fetch API
+// and API key
 
-// (cODE Refactoring)
+// (CODE Refactoring)
 
 //  sync updateNews() {
 
